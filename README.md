@@ -11,16 +11,16 @@ An authenticator app is an application that acts as a secondary device to verify
 
 ## Goals
 
-- [] Complete secret-key scanning and secure storage functionality
-- [] Develop thorough, secure, accurate, and approachable documentation
-- [] Design a working, easy-to-navigate front-end interface
-- [] Implement secure backup-key generation
-- [] Add powerful and extensible application customization
-	- [] Layout
-	- [] Color
-	- [] App order
-	- [] App sorting
-	- [] App icon
+- [ ] Complete secret-key scanning and secure storage functionality
+- [ ] Develop thorough, secure, accurate, and approachable documentation
+- [ ] Design a working, easy-to-navigate front-end interface
+- [ ] Implement secure backup-key generation
+- [ ] Add powerful and extensible application customization
+	- [ ] Layout
+	- [ ] Color
+	- [ ] App order
+	- [ ] App sorting
+	- [ ] App icon
 
 ## Specifications
 
